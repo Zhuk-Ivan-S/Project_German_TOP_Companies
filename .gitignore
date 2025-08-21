@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipnb_checkpoints/
+.venv/
+data/raw/*
+reports/*

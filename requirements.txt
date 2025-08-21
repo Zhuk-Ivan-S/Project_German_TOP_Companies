@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+sklearn.preprocessing
+seaborn
+sklearn.linear_model
