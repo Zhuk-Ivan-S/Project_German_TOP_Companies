@@ -26,7 +26,7 @@ Goal:
 - The most stable companies in terms of debt load — BMW AG, SAP SE.
 - The forecast shows growth in most companies, especially Deutsche Telekom AG.
 
-## ⚙ Tools used
+##  Tools used
 - Python (pandas, matplotlib, seaborn, sklearn)
 - Jupyter Notebook
 - Google Looker Studio (dashboards)
