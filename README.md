@@ -29,4 +29,3 @@ Goal:
 ##  Tools used
 - Python (pandas, matplotlib, seaborn, sklearn)
 - Jupyter Notebook
-- Google Looker Studio (dashboards)
