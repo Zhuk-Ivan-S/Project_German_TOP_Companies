@@ -1,6 +1,6 @@
 # Project_German_TOP_Companies
 Exploatory Data Analysis of financial data from TOP 12 German companies - Data from Kaggle.
-# 📊 Analysis of Top German Companies
+#  Analysis of Top German Companies
 
 ##  Description
 This project analyzes the financial performance of the largest German companies.
