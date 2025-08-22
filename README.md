@@ -16,7 +16,7 @@ Goal:
 ##  Structure
 - data/ — input data (CSV)
 - src/ - steps, code with python
-- reports/ — graphs and visualizations, main Jupyter Notebook with analysis
+- reports/ —  main Jupyter Notebook with analysis
 - README.md — project description
 - requirements.txt — libraries
 
@@ -29,4 +29,3 @@ Goal:
 ##  Tools used
 - Python (pandas, matplotlib, seaborn, sklearn)
 - Jupyter Notebook
-- Google Looker Studio (dashboards)
